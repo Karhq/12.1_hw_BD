@@ -50,7 +50,7 @@
 Тут, так как для меня эта тема новая, воспользовался сторонним ресурсом, для построения схемы, и постарался максимально подробно там углубиться, по всем фронтам.   
 
 Ссылка на файл PostgreSQL  
-[Ссылка](https://github.com/Karhq/12.1_hw_BD/blob/main/Untitled_postgres_create.sql#L117)  
+[Ссылка](https://github.com/Karhq/12.1_hw_BD/blob/main/BD_PostreSQL.sql)  
 
 И сама логическая цепочка со связями  
-![Картинка](https://github.com/Karhq/12.1_hw_BD/blob/main/%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)  
+![Картинка](https://github.com/Karhq/12.1_hw_BD/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%91%D0%94.png)  
