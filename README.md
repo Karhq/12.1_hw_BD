@@ -102,7 +102,7 @@
 далее сам файл sql и визуальная схема
 
 Ссылка на файл PostgreSQL  
-[Ссылка](https://github.com/Karhq/12.1_hw_BD/blob/main/СхемаБДv3.png)  
+[Ссылка](https://github.com/Karhq/12.1_hw_BD/blob/main/PSQL.sql)  
 
 И сама логическая цепочка со связями  
-![Картинка](https://github.com/Karhq/12.1_hw_BD/blob/main/PSQL.sql)  
+![Картинка](https://github.com/Karhq/12.1_hw_BD/blob/main/СхемаБДv3.png)  
